@@ -1,0 +1,34 @@
+============================================================
+              SIMPLE GRADE CALCULATOR
+============================================================
+Student name: john Doe
+How many subjects? 3
+
+Subject 1
+Name: Math
+Marks (0-100): 85
+
+Subject 2
+Name: Science
+Marks (0-100): 90
+
+Subject 3
+Name: English
+Marks (0-100): 78
+
+============================================================
+REPORT CARD: john Doe
+============================================================
+Subject                       Marks
+------------------------------------------------------------
+Math                          85.00
+Science                       90.00
+English                       78.00
+------------------------------------------------------------
+Final Score                   84.33
+Letter Grade             B
+Result                   PASS
+Comment                  Great Work 👍
+============================================================
+
+Calculate for another student? (y/n): 
