@@ -1,0 +1,10 @@
+John Doe,Math,85,Science,90,English,78
+Alice Smith,Math,92,Physics,88,Chemistry,95
+Michael Brown,English,67,History,72,Geography,70
+Sophia Johnson,Math,58,Science,61,English,55
+Daniel Wilson,Physics,81,Math,79,Computer Science,84
+Emma Davis,Biology,95,Chemistry,91,Math,89
+Chris Taylor,History,73,English,76,Math,74
+Olivia Martinez,Math,100,Science,98,English,97
+Liam Anderson,Physics,60,Math,63,English,59
+Ava Thomas,Computer Science,88,Math,90,English,85
